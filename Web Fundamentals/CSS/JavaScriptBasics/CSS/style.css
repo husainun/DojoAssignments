@@ -29,13 +29,10 @@ article{
     padding:10px;
     margin-right:15px;
 }
-/* article ul{
-/*     
-} */ */
-/* .nodeco{
-    list-style-type:none;
+.nodeco{
+    list-style-type: none;
    
-} */
+}
 article ul{
     margin-top:0px;
     margin-bottom:0px;
@@ -54,6 +51,7 @@ p{
 }
 .light_blue{
     color:#42b7be;
+    margin-bottom:0px;
 }
 footer{
     height:50px;
