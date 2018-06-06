@@ -1,0 +1,95 @@
+#wrapper{
+    outline:1px dotted green;
+    width:970px;
+    height:1000px;
+    margin:0px auto;
+    padding:0px;
+    background:radial-gradient(circle, #1D0D11, #6b5b64, #1D0D11);
+}
+.header{
+    height:30px;
+    background-color:#f6f6f6;
+    padding:19px;
+    margin:0;
+}
+.header h1{
+    display:inline-block;
+    margin-bottom:0px;
+    margin-top:0px;
+    font-family:"Comic Sans MS",cursive, sans-serif
+}
+.header h2{
+    margin-left:400px;
+    display:inline-block;
+    margin-bottom:0px;
+    margin-top:0px;
+}
+.bio{
+    background-color:#6b5b64;
+    margin:10px;
+   
+}
+.bio img{
+    width:400px;
+    height:253px;
+    border:3px solid white;
+    display:inline-block;
+    vertical-align:top;
+    margin-right:20px;
+}
+.bio .Aboutme{
+    padding:0px;
+    height:258px;
+    width:519px;
+    background-color:#f0edf1;
+    display:inline-block;
+    margin-bottom:20px;
+    
+}
+.GreyHeading{
+    margin:0px;
+    padding:0px;
+    height:40px;
+    background-color:grey;
+}
+h3{
+    margin-top:0px;
+    padding:5px;
+    padding-left:10px;
+    color:white;
+    vertical-align:center;
+}
+.base{
+    padding:5px;
+}
+.projects{
+    height:580px;
+    width:auto;
+    margin-right:10px;
+    margin-left:10px;
+
+}
+.projdetails{
+    /* width:300px; */
+    background-color:white;
+    padding:5px;
+
+}
+.projdetails img{
+    height:150px;
+    width:289px;
+    margin-right:0px;
+}
+.tech img{
+    width:40px;
+    height:40px;
+}
+.indiv_project{
+    display:inline-block;
+    width:307px;
+}
+button{
+    background-color:green;
+    margin-top:15px;
+    border-radius: 5px;
+}
