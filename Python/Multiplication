@@ -1,0 +1,15 @@
+ array_row = []
+for i in range(0,13):
+    if i == 0:
+        array_row.append('X')
+    else:
+        array_row.append("  ")
+        array_row.append(i)
+    for j in range(1,13):
+        if i == 0:
+            array_row.append(j)
+        else:
+            array.row.append("  ")
+            array_row.append(i*j)
+
+print (array_row)
